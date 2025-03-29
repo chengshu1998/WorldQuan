@@ -46,7 +46,7 @@ async def simulate_multiple_alphas(alpha_list, region_list, decay_list, delay_li
     :param stone_bag: 其他参数
     :param n_jobs: 并发任务数量
     """
-    n = n_jobs  # 并发任务数量
+    n = n_jobs  # 并发任务数量 user max is 3
     semaphore = asyncio.Semaphore(n)  # 信号量，用于限制并发任务数量
     tasks = []  # 存储所有任务
     tags = [name]  # 标签列表
