@@ -1,2 +1,2 @@
-username: 'z_xianzhi@outlook.com'
-password: '1998@Zhang'
+username: ''
+password: ''
