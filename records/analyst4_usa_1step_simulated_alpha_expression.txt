@@ -1638,3 +1638,7 @@ ts_mean(winsorize(ts_backfill(vec_avg(anl4_detailrecv4v104_est), 120), std=4), 1
 quantile(winsorize(ts_backfill(vec_avg(anl4_fsactualqfv4_actual), 120), std=4))
 ts_delta(winsorize(ts_backfill(vec_avg(anl4_dez1afv4_preest), 120), std=4), 240)
 ts_arg_max(winsorize(ts_backfill(vec_sum(anl4_cuo1detailqfv110_item), 120), std=4), 66)
+rank(winsorize(ts_backfill(anl4_ptp_median, 120), std=4))
+ts_scale(winsorize(ts_backfill(vec_sum(anl4_fsgdncbscv4_maxguidance), 120), std=4), 22)
+ts_delta(winsorize(ts_backfill(vec_avg(anl4_fsdtlestmtbscqv104_item), 120), std=4), 120)
+ts_arg_max(winsorize(ts_backfill(vec_sum(anl4_adxqfv110_mean), 120), std=4), 120)

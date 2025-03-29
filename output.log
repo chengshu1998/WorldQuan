@@ -53047,4 +53047,151 @@ region: ASI universe: all No alpha to check.
 {"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
 0
 count: 0
-region: CHN
+region: CHN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: KOR universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: TWN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: JPN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: HKG universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: AMR universe: all No alpha to check.
+2025-03-25 2025-03-26
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: USA universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: GLB universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: EUR universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: ASI universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: CHN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: KOR universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: TWN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: JPN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: HKG universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: AMR universe: all No alpha to check.
+2025-03-26 2025-03-27
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: USA universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: GLB universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: EUR universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: ASI universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: CHN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: KOR universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: TWN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: JPN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: HKG universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: AMR universe: all No alpha to check.
+2025-03-27 2025-03-28
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 1
+{'id': 'XJAaM21', 'type': 'REGULAR', 'author': 'ZZ27775', 'instrumentType': 'EQUITY', 'region': 'USA', 'universe': 'TOP3000', 'delay': 1, 'decay': 6, 'neutralization': 'SUBINDUSTRY', 'truncation': 0.08, 'pasteurization': 'ON', 'unitHandling': 'VERIFY', 'nanHandling': 'ON', 'language': 'FASTEXPR', 'visualization': False, 'code': 'ts_mean(winsorize(ts_backfill(anl4_adjusted_netincome_ft, 120), std=4), 240)', 'description': None, 'operatorCount': 3, 'dateCreated': '2025-03-27T05:53:04-04:00', 'dateSubmitted': None, 'dateModified': '2025-03-28T11:59:30-04:00', 'name': 'analyst4_usa_1step', 'favorite': False, 'hidden': False, 'color': 'GREEN', 'category': None, 'tags': ['analyst4_usa_1step'], 'classifications': [{'id': 'DATA_USAGE:SINGLE_DATA_SET', 'name': 'Single Data Set Alpha'}], 'grade': 'EXCELLENT', 'stage': 'IS', 'status': 'UNSUBMITTED', 'pnl': 7897614, 'bookSize': 20000000, 'longCount': 1843, 'shortCount': 1106, 'turnover': 0.0228, 'returns': 0.1596, 'drawdown': 0.114, 'margin': 0.013991, 'fitness': 2.1, 'sharpe': 1.86, 'startDate': '2018-01-20', 'checks': [{'name': 'LOW_SHARPE', 'result': 'PASS', 'limit': 1.25, 'value': 1.86}, {'name': 'LOW_FITNESS', 'result': 'PASS', 'limit': 1.0, 'value': 2.1}, {'name': 'LOW_TURNOVER', 'result': 'PASS', 'limit': 0.01, 'value': 0.0228}, {'name': 'HIGH_TURNOVER', 'result': 'PASS', 'limit': 0.7, 'value': 0.0228}, {'name': 'CONCENTRATED_WEIGHT', 'result': 'PASS'}, {'name': 'LOW_SUB_UNIVERSE_SHARPE', 'result': 'PASS', 'limit': 0.81, 'value': 1.17}, {'name': 'SELF_CORRELATION', 'result': 'PENDING'}, {'name': 'MATCHES_COMPETITION', 'result': 'PASS', 'competitions': [{'id': 'challenge', 'name': 'Challenge'}, {'id': 'IQC2025S1', 'name': 'International Quant Championship 2025 Stage 1'}]}], 'os': None, 'train': None, 'test': None, 'prod': None, 'competitions': None, 'themes': None, 'team': None, 'pyramids': None}
+1
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+XJAaM21 self corr use: 915.3285865783691
+               test result  limit   value alpha_id
+0  SELF_CORRELATION   PASS    0.7  0.6749  XJAaM21
+        id     type   author instrumentType region universe  delay  decay neutralization  truncation pasteurization unitHandling nanHandling  language  visualization                                               code description  operatorCount                dateCreated dateSubmitted               dateModified                name  favorite  hidden  color category                  tags                                    classifications      grade stage       status      pnl  bookSize  longCount  shortCount  turnover  returns  drawdown    margin  fitness  sharpe   startDate                                             checks    os train  test  prod competitions themes  team pyramids  self_corr
+0  XJAaM21  REGULAR  ZZ27775         EQUITY    USA  TOP3000      1      6    SUBINDUSTRY        0.08             ON       VERIFY          ON  FASTEXPR          False  ts_mean(winsorize(ts_backfill(anl4_adjusted_ne...        None              3  2025-03-27T05:53:04-04:00          None  2025-03-28T11:59:30-04:00  analyst4_usa_1step     False   False  GREEN     None  [analyst4_usa_1step]  [{'id': 'DATA_USAGE:SINGLE_DATA_SET', 'name': ...  EXCELLENT    IS  UNSUBMITTED  7897614  20000000       1843        1106    0.0228   0.1596     0.114  0.013991      2.1    1.86  2018-01-20  [{'name': 'LOW_SHARPE', 'result': 'PASS', 'lim...  None  None  None  None         None   None  None     None     0.6749
+Successfully find XJAaM21 is a submitable alpha.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: GLB universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: EUR universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: ASI universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: CHN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: KOR universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: TWN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: JPN universe: all No alpha to check.
+{"user":{"id":"ZZ27775"},"token":{"expiry":14400.0},"permissions":["TUTORIAL"]}
+0
+count: 0
+region: HKG
